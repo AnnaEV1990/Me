@@ -4,4 +4,4 @@
 **дочке 8 лет**
 **есть собачка Тэдди**
 
-![ Alt текст](C:\Users\User\Desktop\Image)
+![my photo] (C:\Users\User\Desktop\Обо мне/20220902_093226.jpg)
